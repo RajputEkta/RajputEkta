@@ -40,7 +40,7 @@
         <p>🌱 Always learning: <b>System Design</b>, <b>DevOps</b>, and <b>Cloud Architecture</b>.</p>
       </td>
       <td width="40%">
-        <img src="https://github.com/ekta226/ekta226/assets/65481166/4a0c8d9e-2c8e-4e8d-8c5b-0d3b0c8c9a4f" width="100%" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(247, 141, 167, 0.2);" alt="Girl coding animation"/>
+        <img src="./about.gif" width="100%" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(247, 141, 167, 0.2);" alt="Girl coding animation"/>
       </td>
     </tr>
   </table>
