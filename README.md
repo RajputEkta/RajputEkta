@@ -93,8 +93,16 @@
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekta226&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ekta226&theme=radical&no-frame=true&margin-w=15&row=2&column=3" alt="GitHub Trophies" width="48%"/>
+   <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekta226&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages" 
+    style="width:48%;max-width:100%;height:auto;min-width:250px;"
+  />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=ekta226&theme=radical&no-frame=true&margin-w=15&row=2&column=3" 
+    alt="GitHub Trophies" 
+    style="width:48%;max-width:100%;height:auto;min-width:250px;"
+  />
 </div>
 
 <br/>
