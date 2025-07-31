@@ -84,9 +84,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajputekta&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RajputEkta&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
       <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rajputekta&theme=radical&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=RajputEkta&theme=radical&hide_border=true" 
     alt="GitHub Streak" 
     style="width:48%;max-width:100%;height:auto;min-width:250px;"
   />
@@ -94,12 +94,12 @@
   <br/><br/>
   
    <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputekta&layout=compact&theme=radical&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajputEkta&layout=compact&theme=radical&hide_border=true" 
     alt="Top Languages" 
     style="width:48%;max-width:100%;height:auto;min-width:250px;"
   />
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=rajputekta&theme=radical&no-frame=true&margin-w=15&row=2&column=3" 
+    src="https://github-profile-trophy.vercel.app/?username=RajputEkta&theme=radical&no-frame=true&margin-w=15&row=2&column=3" 
     alt="GitHub Trophies" 
     style="width:48%;max-width:100%;height:auto;min-width:250px;"
   />
