@@ -88,7 +88,8 @@
          <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=ekta226&theme=radical&hide_border=true" 
     alt="GitHub Streak" 
-    style="width:48%;max-width:100%;height:auto;min-width:250px;"
+    style="width:48%;max-width:100vw;height:auto;min-width:200px;display:block;"
+    onerror="this.onerror=null;this.src='https://via.placeholder.com/400x150?text=GitHub+Streak+Unavailable';"
   />
   
   <br/><br/>
