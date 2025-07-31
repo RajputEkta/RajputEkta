@@ -1,6 +1,6 @@
 <!-- ✨ Header with Animated Banner ✨ -->
 <div align="center">
-  <img src="https://github.com/ekta226/ekta226/header" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(247, 141, 167, 0.3);"/>
+  <img src="./header.gif" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(247, 141, 167, 0.3);"/>
   
   <!-- Name with Gradient Text -->
   <h1 align="center" style="background: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 15px 0;">
@@ -26,7 +26,7 @@
 <br/>
 
 <!-- 🌸 About Me Section 🌸 -->
-## <img src="https://github.com/ekta226/ekta226/about" width="30px"> About Me
+## <img src="./about.gif" width="30px"> About Me
 
 <div align="center">
   <table>
