@@ -85,7 +85,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ekta226&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekta226&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width:100%;height:auto;"/>
+      <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ekta226&theme=radical&hide_border=true" 
+    alt="GitHub Streak" 
+    style="width:48%;max-width:100%;height:auto;min-width:250px;"
+  />
   
   <br/><br/>
   
