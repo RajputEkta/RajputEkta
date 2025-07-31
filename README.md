@@ -85,7 +85,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ekta226&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekta226&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+ <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekta226&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
+</div>
   
   <br/><br/>
   
@@ -117,13 +119,16 @@
 
 <!-- ✨ Quote Section ✨ -->
 <div align="center" style="background: linear-gradient(45deg, #ffb6c1, #ff8fab); padding: 20px; border-radius: 12px; margin: 20px 0;">
-  <h3 style="color: white; margin: 0;">✨ Quote I Live By ✨</h3>
+  <h3 style="color: white; margin: 0;">✨ Motivational Coding Quote ✨</h3>
   <blockquote style="color: white; font-style: italic; font-size: 18px;">
-    "The most effective way to do it, is to do it." — Amelia Earhart
+    "The best error message is the one that never shows up. Keep improving your code, keep improving yourself." — Unknown
   </blockquote>
 </div>
 
 <!-- 🌸 Footer 🌸 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%9D%A4%EF%B8%8F&fontSize=20&fontColor=ffffff" alt="Footer"/>
-</div>
+<div align="center" style="margin-top: 30px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer&text=Happy%20Coding!%20Keep%20Building%20%F0%9F%92%BB&fontSize=22&fontColor=ffffff" alt="Footer"/>
+  <br/>
+  <b style="color: #ff8fab; font-size: 18px;">Made with 💖 by Ekta Rajput</b>
+  <br/>
+  <span style="color: #888;">Thanks for visiting! Connect & keep
