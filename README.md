@@ -130,10 +130,10 @@
 <!-- ✨ Quote Section ✨ -->
 <div align="center" style="background: linear-gradient(45deg, #ffb6c1, #ff8fab); padding: 20px; border-radius: 12px; margin: 20px 0;">
   <h3 style="color: white; margin: 0;">✨ Quote I Live By ✨</h3>
-  <blockquote style="color: white; font-style: italic; font-size: 18px;">
-💡 "Ekta, every great app starts with a single line of code — and you’ve already started!"
-🚀 "Ekta, don’t worry about being perfect. Just keep building — progress is the real win!"
-🌱 "Code grows with you, Ekta. The more you learn, the more powerful your creations become."
+<blockquote style="color: white; font-style: italic; font-size: 18px;">
+💡 "Ekta, every great app starts with a single line of code — and you’ve already started!"<br/>
+🚀 "Ekta, don’t worry about being perfect. Just keep building — progress is the real win!"<br/>
+🌱 "Code grows with you, Ekta. The more you learn, the more powerful your creations become."<br/>
 🔥 "Bugs fear you, Ekta. You’re the debugger queen — stay consistent, stay confident!"
   </blockquote>
 </div>
