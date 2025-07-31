@@ -1,20 +1,17 @@
 <!-- ✨ Header with Animated Banner ✨ -->
 <div align="center">
   <img src="./header.gif" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(247, 141, 167, 0.3);"/>
-  
+
   <!-- Name with Gradient Text -->
-  <h1 align="center" style="background: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 15px 0;">
-    🌸 Ekta Rajput 🌸
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F78DA7&center=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Cloud+%26+ML+Explorer+%E2%9C%A8;UI%2FUX+Design+Lover+%F0%9F%92%96" alt="Typing SVG" />
   </h1>
-  
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F78DA7&center=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Cloud+%26+ML+Explorer+%E2%9C%A8;UI%2FUX+Design+Lover+%F0%9F%92%96" alt="Typing SVG" />
-  
+
   <!-- Tech Icons Floating -->
   <div style="margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,py,java,aws,docker,kubernetes,tensorflow,git&perline=10" alt="tech-stack" />
   </div>
-  
+
   <!-- Glowing Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8FPassion-pink?style=for-the-badge&logo=heart&logoColor=white" />
@@ -52,7 +49,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  
+
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -85,15 +82,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RajputEkta&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-      <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=RajputEkta&theme=radical&hide_border=true" 
-    alt="GitHub Streak" 
-    style="width:48%;max-width:100%;height:auto;min-width:250px;"
-  />
-  
+ <img src="https://streak-stats.demolab.com?user=RajputEkta&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+
+
   <br/><br/>
-  
-   <img 
+
+  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajputEkta&layout=compact&theme=radical&hide_border=true" 
     alt="Top Languages" 
     style="width:48%;max-width:100%;height:auto;min-width:250px;"
@@ -130,11 +124,11 @@
 <!-- ✨ Quote Section ✨ -->
 <div align="center" style="background: linear-gradient(45deg, #ffb6c1, #ff8fab); padding: 20px; border-radius: 12px; margin: 20px 0;">
   <h3 style="color: white; margin: 0;">✨ Quote I Live By ✨</h3>
-<blockquote style="color: white; font-style: italic; font-size: 18px;">
-💡 "Ekta, every great app starts with a single line of code — and you’ve already started!"<br/>
-🚀 "Ekta, don’t worry about being perfect. Just keep building — progress is the real win!"<br/>
-🌱 "Code grows with you, Ekta. The more you learn, the more powerful your creations become."<br/>
-🔥 "Bugs fear you, Ekta. You’re the debugger queen — stay consistent, stay confident!"
+  <blockquote style="color: white; font-style: italic; font-size: 18px;">
+    💡 "Ekta, every great app starts with a single line of code — and you’ve already started!"<br/>
+    🚀 "Ekta, don’t worry about being perfect. Just keep building — progress is the real win!"<br/>
+    🌱 "Code grows with you, Ekta. The more you learn, the more powerful your creations become."<br/>
+    🔥 "Bugs fear you, Ekta. You’re the debugger queen — stay consistent, stay confident!"
   </blockquote>
 </div>
 
